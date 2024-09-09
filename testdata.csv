@@ -1,0 +1,3 @@
+email, password, name, fullCourseName, num, exp, cvv
+test@email.com,abcabc,javascript for beginners,javascript for beginners,4242424242429899,12/26,098
+test@email.com,abcabc,Learn Python 3 from scratch,Learn Python 3 from scratch,4242424242424243,11/29,123
